@@ -1,21 +1,25 @@
 ## IETF Secure Asset Transfer Protocol (SATP)
-![](https://img.shields.io/github/issues/CxSci/IETF-SATP) ![](https://img.shields.io/github/issues-raw/CxSci/IETF-SATP/help%20wanted) ![](https://img.shields.io/github/forks/CxSci/IETF-SATP) ![](https://img.shields.io/github/stars/CxSci/IETF-SATP)
-![](https://img.shields.io/github/license/CxSci/IETF-SATP) ![](https://img.shields.io/github/v/release/CxSci/IETF-SATP)
+![](./satp.jpg)
+![](https://img.shields.io/github/license/CxSci/IETF-SATP) 
 
  Blockchain gateway interoperability architecture and protocols, operating under the auspices of the IETF.
 
 
-- The [proposed SATP Charter](https://github.com/CxSci/IETF-SATP/blob/main/charter/satp-charter.md)
+- The [proposed SATP Charter](https://datatracker.ietf.org/doc/charter-ietf-satp/)
 
-#### Links to Relevant documents
+#### Links to Drafts
 
-- SATP [Architecture draft](https://datatracker.ietf.org/doc/draft-hardjono-sat-architecture/)
+- SATP [Core draft](https://datatracker.ietf.org/doc/draft-ietf-satp-core)
+
+- SATP [Crash Recovery draft](https://datatracker.ietf.org/doc/draft-belchior-satp-gateway-recovery/)
+
+- SATP [Architecture draft](https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/)
 
 - SATP [Use-Cases draft](https://datatracker.ietf.org/doc/draft-ramakrishna-sat-use-cases/)
 
-- SATP [Asset Transfer Protocol draft](https://datatracker.ietf.org/doc/draft-hargreaves-sat-core/)
+- SATP [Data sharing draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing)
 
-- SATP [Crash Recovery draft](https://datatracker.ietf.org/doc/draft-belchior-gateway-recovery/)
+- SATP [Data sharing draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing)
 
-- SATP Data Sharing draft (soon)
+- SATP [View Addresses draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-views-addresses)
 
