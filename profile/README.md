@@ -1,11 +1,16 @@
 ## IETF Secure Asset Transfer Protocol (SATP)
 ![](./satp.jpg)
-![](https://img.shields.io/github/license/CxSci/IETF-SATP) 
+
+![License](https://img.shields.io/github/license/ietf-satp/draft-ietf-satp-core)
+
 
  Blockchain gateway interoperability architecture and protocols, operating under the auspices of the IETF.
 
 
 - The [proposed SATP Charter](https://datatracker.ietf.org/doc/charter-ietf-satp/)
+
+#### Governance
+The process is documented in the [mailing list](https://mailarchive.ietf.org/arch/msg/sat/VsuDC8zJJgkpT-ImKZKAoanuAyQ/).
 
 #### Links to Drafts
 
@@ -24,3 +29,7 @@
 - **SATP Gateway Crash Recovery Mechanism Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-belchior-satp-gateway-recovery/) | [GitHub Repository](https://github.com/ietf-satp/draft-belchior-satp-gateway-recovery)
 
 - **SATP Data Sharing Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing/) | [GitHub Repository](https://github.com/ietf-satp/draft-ramakrishna-satp-data-sharing)
+
+#### Contributing
+
+We welcome contributions to the drafts. Please refer to the [CONTRIBUTING.md](https://github.com/ietf-satp/draft-ietf-satp-core/blob/main/CONTRIBUTING.md) file in the SATP core repository for guidelines on how to contribute to any draft.
