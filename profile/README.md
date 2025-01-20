@@ -1,5 +1,5 @@
 ## IETF Secure Asset Transfer Protocol (SATP)
-<img src="./satp.jpg" alt="SATP Image" width="600" height="600">
+<img src="./satp.jpg" alt="SATP Image" width="600" height="800">
 
  Blockchain gateway interoperability architecture and protocols, operating under the auspices of the IETF.
 
