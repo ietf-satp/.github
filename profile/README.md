@@ -9,17 +9,18 @@
 
 #### Links to Drafts
 
-- SATP [Core draft](https://datatracker.ietf.org/doc/draft-ietf-satp-core)
+- **SATP Core Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ietf-satp-core/) | [GitHub Repository](https://github.com/ietf-satp/draft-ietf-satp-core)
 
-- SATP [Crash Recovery draft](https://datatracker.ietf.org/doc/draft-belchior-satp-gateway-recovery/)
+- **SATP Architecture Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/) | [GitHub Repository](https://github.com/ietf-satp/draft-ietf-satp-architecture)
 
-- SATP [Architecture draft](https://datatracker.ietf.org/doc/draft-ietf-satp-architecture/)
+- **SATP Use Cases Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ietf-satp-usecases/) | [GitHub Repository](https://github.com/ietf-satp/draft-ietf-satp-usecases)
 
-- SATP [Use-Cases draft](https://datatracker.ietf.org/doc/draft-ramakrishna-sat-use-cases/)
+- **SATP Asset Profiles Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-avrilionis-satp-asset-profiles/) | [GitHub Repository](https://github.com/ietf-satp/draft-avrilionis-satp-asset-profiles)
 
-- SATP [Data sharing draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing)
+- **SATP Asset Schema Architecture Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-avrilionis-satp-asset-schema-architecture/) | [GitHub Repository](https://github.com/ietf-satp/draft-avrilionis-satp-asset-schema-architecture)
 
-- SATP [Data sharing draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing)
+- **SATP Setup Stage Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-avrilionis-satp-setup-stage/) | [GitHub Repository](https://github.com/ietf-satp/draft-avrilionis-satp-setup-stage)
 
-- SATP [View Addresses draft](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-views-addresses)
+- **SATP Gateway Crash Recovery Mechanism Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-belchior-satp-gateway-recovery/) | [GitHub Repository](https://github.com/ietf-satp/draft-belchior-satp-gateway-recovery)
 
+- **SATP Data Sharing Draft**: [IETF Datatracker](https://datatracker.ietf.org/doc/draft-ramakrishna-satp-data-sharing/) | [GitHub Repository](https://github.com/ietf-satp/draft-ramakrishna-satp-data-sharing)
