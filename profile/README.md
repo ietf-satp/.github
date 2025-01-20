@@ -1,8 +1,5 @@
 ## IETF Secure Asset Transfer Protocol (SATP)
-![](./satp.jpg)
-
-![License](https://img.shields.io/github/license/ietf-satp/draft-ietf-satp-core)
-
+<img src="./satp.jpg" alt="SATP Image" width="600" height="400">
 
  Blockchain gateway interoperability architecture and protocols, operating under the auspices of the IETF.
 
@@ -33,3 +30,9 @@ The process is documented in the [mailing list](https://mailarchive.ietf.org/arc
 #### Contributing
 
 We welcome contributions to the drafts. Please refer to the [CONTRIBUTING.md](https://github.com/ietf-satp/draft-ietf-satp-core/blob/main/CONTRIBUTING.md) file in the SATP core repository for guidelines on how to contribute to any draft.
+
+## Intellectual property rights
+
+For more information about the IETF and its processes, please refer to the following links:
+- [Introduction to the IETF](https://www.ietf.org/about/introduction/)
+- [IETF Intellectual Property Rights (IPR) Policy](https://www.ietf.org/process/ipr/)
